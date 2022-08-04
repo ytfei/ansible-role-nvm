@@ -1,2 +1,2 @@
 ---
-- include: nvm.yml
+- include_tasks: nvm.yml
